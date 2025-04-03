@@ -1,0 +1,32 @@
+# 📟 Calculadora GUI para Termux
+
+Uma **calculadora interativa** feita em Shell Script usando `whiptail` para interface gráfica no **Termux**.
+
+## 📌 Funcionalidades
+✔️ Operações matemáticas básicas: **Adição, Subtração, Multiplicação e Divisão**  
+✔️ Interface interativa com **menus gráficos**  
+✔️ Verificação de erros, como **divisão por zero**  
+✔️ Fácil de instalar e usar no **Termux**  
+
+## 🚀 Instalação
+
+1️⃣ **Clone o repositório**  
+```bash
+git clone https://github.com/HKshine/calculadora-termux.git
+cd calculadora-termux
+
+2️⃣ Dê permissão de execução ao script
+
+bash
+Copiar código
+chmod +x calculadora_gui.sh
+3️⃣ Instale as dependências
+
+bash
+Copiar código
+pkg install whiptail bc -y
+4️⃣ Execute a calculadora
+
+bash
+Copiar código
+./calculadora_gui.sh

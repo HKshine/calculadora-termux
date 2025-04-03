@@ -30,3 +30,11 @@ pkg install whiptail bc -y
 bash
 Copiar código
 ./calculadora_gui.sh
+
+🤝 Contribuição
+Sinta-se à vontade para contribuir com melhorias! Basta abrir um Pull Request.
+
+📜 Licença
+Este projeto é livre para uso e modificação.
+
+

@@ -10,9 +10,10 @@ Uma **calculadora interativa** feita em Shell Script usando `whiptail` para inte
 
 ## 🚀 Instalação
 
-1️⃣ **Clone o repositório**  
+1️⃣ Clone o repositório  
 
 git clone https://github.com/HKshine/calculadora-termux.git
+
 cd calculadora-termux
 
 

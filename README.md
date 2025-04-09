@@ -12,6 +12,7 @@ Uma **calculadora interativa** feita em Shell Script usando `whiptail` para inte
 
 1️⃣ Clone o repositório  
 
+```bash
 git clone https://github.com/HKshine/calculadora-termux.git
 
 cd calculadora-termux

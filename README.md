@@ -14,25 +14,21 @@ Uma **calculadora interativa** feita em Shell Script usando `whiptail` para inte
 
 ```bash
 git clone https://github.com/HKshine/calculadora-termux.git
-
 cd calculadora-termux
-
+```
 
 2️⃣ Dê permissão de execução ao script
-
-Copiar código
+```
 chmod +x calculadora_gui.sh
-
+```
 3️⃣ Instale as dependências
-
-Copiar código
+```
 pkg install whiptail bc -y
-
-4️⃣ Execute a calculadora
-
-Copiar código
+```
+4️⃣ Execute a calculador
+```
 ./calculadora_gui.sh
-
+```
 🤝 Contribuição
 Sinta-se à vontade para contribuir com melhorias! Basta abrir um Pull Request.
 
